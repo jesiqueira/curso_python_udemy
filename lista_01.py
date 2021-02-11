@@ -1,0 +1,15 @@
+lista = []
+# print(type(lista))
+# print(dir(lista))
+# print(help(lista))
+# print(len(lista))
+lista.append(1)
+lista.append(2)
+# print(lista)
+
+nova_lista = [1, 5, 'Ana', 'Bia']
+# print(nova_lista)
+nova_lista.remove(5)
+# print(nova_lista)
+nova_lista.reverse()
+print(nova_lista)
